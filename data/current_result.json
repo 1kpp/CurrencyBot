@@ -1,0 +1,365 @@
+[
+    {
+        "address": "ТЦ \"Лухмановский Пассаж\", зона банкоматов, ул Лухмановская, 8",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.714528%2C+37.898381"
+    },
+    {
+        "address": "ТЦ \"Светофор\", 1 этаж, рядом с Charuel, Побратимов ул., 7",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.69211%2C+37.896847"
+    },
+    {
+        "address": "Супермаркет \"Перекресток\", Новая ул., 3",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.757505%2C+37.851907"
+    },
+    {
+        "address": "ТЦ \"МЕГА\", здание 1 (\"Ашан\"), центральный вход, 1-й Покровский пр-д, 5",
+        "is_work": "Нет",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.654966%2C+37.845189"
+    },
+    {
+        "address": "ТЦ \"Лес\", 1 этаж, зона банкоматов, Хабаровская ул., 15",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 500",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.822549%2C+37.823591"
+    },
+    {
+        "address": "Супермаркет \"Перекресток\", Открытое ш., 9с1",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 300",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.815342%2C+37.737826"
+    },
+    {
+        "address": "ст. МЦК \"Шоссе Энтузиастов\", доступ через турникет, Энтузиастов ш., 31",
+        "is_work": "Нет",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.758814%2C+37.746182"
+    },
+    {
+        "address": "Супермаркет \"Перекресток\", Волжский б-р, 7",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "EUR, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.71681%2C+37.745581"
+    },
+    {
+        "address": "ТЦ \"Мариэль\", 1 этаж, вход со стороны \"Макдоналдс\", Люблинская ул., 169к2",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 1400",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.649409%2C+37.74476"
+    },
+    {
+        "address": "ТЦ \"Радужный\", 1 этаж, вход со ст.м. \"Бабушкинская\", Енисейская ул., 19к1",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 100",
+            "RUB, осталось: 14000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.869102%2C+37.663394"
+    },
+    {
+        "address": "ТЦ \"Коломенский\", 2 этаж, Андропова пр-кт, 23",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 100",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.678168%2C+37.665033"
+    },
+    {
+        "address": "ТЦ \"Фортуна\", 1 этаж, центральный вход, Широкая ул., 12Б",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 3000",
+            "RUB, осталось: 155200"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.886436%2C+37.660792"
+    },
+    {
+        "address": "Гостиница \"Космос\", 1 этаж, центральный вход, Мира пр-кт, 150",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.821994%2C+37.646581"
+    },
+    {
+        "address": "БЦ \"Дом Бахрушина\", 1 этаж, Бахрушина ул., 32с1",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.731923%2C+37.637165"
+    },
+    {
+        "address": "Супермаркет \"Дикси\", 1-й Нагатинский пр-зд, 11к2",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 1000",
+            "RUB, осталось: 261600"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.67784%2C+37.63539"
+    },
+    {
+        "address": "ТЦ \"Фабрика обуви\", 1 этаж, зона банкоматов, Кантемировская ул., 58",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 4000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.639103%2C+37.645698"
+    },
+    {
+        "address": "Гипермаркет \"Лента\", 1 этаж, центральный вход, Бибиревская ул., 10к2",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 300",
+            "RUB, осталось: 10000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.881732%2C+37.602796"
+    },
+    {
+        "address": "ТЦ «Алтуфьевский», 1 этаж, центральный вход, рядом с эскалатором, Алтуфьевское ш., 8",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.85306%2C+37.585685"
+    },
+    {
+        "address": "ТЦ \"Метромаркет\", центральный вход, Дмитровское ш., 13а",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.818708%2C+37.573862"
+    },
+    {
+        "address": "БЦ \"Станколит\", 1 этаж, вход № 3, Складочная ул., 1с1",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.800412%2C+37.594211"
+    },
+    {
+        "address": "Салон связи \"Билайн\", Арбат ул., 12с1",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 200",
+            "RUB, осталось: 2000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.751118%2C+37.59604"
+    },
+    {
+        "address": "ТЦ \"Зиг-Заг\", 1 этаж, рядом с лифтом, Лобненская ул., 4А",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 100",
+            "RUB, осталось: 81000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.889733%2C+37.537854"
+    },
+    {
+        "address": "ТЦ \"Авиапарк\", 1 этаж, рядом с аквариумом, Ходынский б-р, 4",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.78997%2C+37.530996"
+    },
+    {
+        "address": "ТЦ \"Универмаг Москва\", 1 этаж, вход со стороны \"Азбука Вкуса\", Ленинский пр-кт, 54",
+        "is_work": "Нет",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.697989%2C+37.560707"
+    },
+    {
+        "address": "ЖК \"Утесов\", вход с Карамышевской наб., справа от \"Перекресток\", Карамышевская Набережная, 2А",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "EUR, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.76852%2C+37.494499"
+    },
+    {
+        "address": "ТЦ \"Багратионовский\", 1 этаж, зона банкоматов, Барклая ул., вл10",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 4500",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.743227%2C+37.499634"
+    },
+    {
+        "address": "ТЦ \"Любимый\", 1 этаж, центральный вход, Мичуринский пр-кт, 22к1",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.701009%2C+37.50341"
+    },
+    {
+        "address": "ТЦ \"Капитолий\", 3 этаж, зона банкоматов рядом с фудкортом, Вернадского пр-кт, 6",
+        "is_work": "Нет",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "EUR, осталось: 3300",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.692398%2C+37.526938"
+    },
+    {
+        "address": "ТЦ \"Спектр\", 1 этаж, рядом с центральным эскалатором, Новоясеневский пр-кт, 1",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 500",
+            "RUB, осталось: 110600"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.619554%2C+37.508749"
+    },
+    {
+        "address": "ТЦ \"Речной\", 1 этаж, лифтовой холл рядом с \"Связной\", Фестивальная ул., 2Б",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 200",
+            "RUB, осталось: 113000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.855197%2C+37.477596"
+    },
+    {
+        "address": "ТЦ \"Тук-Тук\", 1 этаж, Центральный вход, Матвеевская ул., 2",
+        "is_work": "Нет",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.705152%2C+37.479307"
+    },
+    {
+        "address": "ТЦ \"Парк Фудхолл\", 2 этаж, Вернадского пр-т, 86В",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 100",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.66173%2C+37.480149"
+    },
+    {
+        "address": "ТЦ \"Кунцево Плаза\", -1 этаж, зона банкоматов рядом с \"Ашан\", Ярцевская ул., 19",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.739233%2C+37.411235"
+    },
+    {
+        "address": "Гипермаркет \"ОКЕЙ\", в конце кассовой зоны, Озёрная ул., 50",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 200",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.664355%2C+37.437311"
+    },
+    {
+        "address": "Супермаркет \"Пятерочка\", Родионовская ул., 12",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 100",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.894419%2C+37.38865"
+    },
+    {
+        "address": "ТЦ VEGAS, 2 этаж, центральный вход, Хорошёвский пр-д, 14",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.720313%2C+37.380791"
+    },
+    {
+        "address": "ТЦ \"Твин Маркет\", 1 этаж, центральный вход, Чистяковой ул., 1",
+        "is_work": "Нет",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.695317%2C+37.333265"
+    },
+    {
+        "address": "ТЦ \"Курс\", 2 этаж, зона банкоматов, Можайское ш., 159",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.686796%2C+37.305968"
+    },
+    {
+        "address": "ТЦ \"Союзный\", 1 этаж, салон \"Билайн\", Маковского ул., 2а",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 100",
+            "RUB, осталось: 30000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.67075%2C+37.2809"
+    },
+    {
+        "address": "ТЦ \"Солнцево Парк\", 1 этаж, напротив \"Теле2\", Летчика Ульянина ул., 5",
+        "is_work": "Да",
+        "currencies_available": [
+            "USD, осталось: 5000",
+            "RUB, осталось: 300000"
+        ],
+        "map_link": "https://yandex.ru/maps/?mode=search&text=55.625877%2C+37.306901"
+    }
+]
