@@ -6,7 +6,7 @@ from aiogram.utils.markdown import hbold, hlink
 from get_actual_atm_data import get_currency_places
 from aiogram.dispatcher.filters import Text
 
-bot = Bot(token='5144503805:AAHKCfuRm0F5wBxWQWM68iqi8xHu3B0eN_s', parse_mode=types.ParseMode.HTML)
+bot = Bot(token='', parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 
